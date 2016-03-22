@@ -7,7 +7,7 @@ This is the main component, and you will need to build your project and look for
 I Added basically a page break method so if it is greater than X characters it will print the next page. 
 
 -Extras
-In the Extras folder I have a full blown example for a wordpad like program!
+In the Extras folder there are several examples with different uses of the RichTextBoxPrintCtrl control!
 
 -License
 MIT, use as you wish unless you use the Extra examples add:
@@ -43,3 +43,15 @@ Done!
 
 #Custom
 Well obviously this will vary! You still need the printing code in Main.vb and the control!
+
+
+
+
+#Building Examples!!!
+
+There are several different example applications made using this custom control you can find these in the Extras Folder
+-Basic Notepad
+-Website Editor
+-Advanced Notepad
+A c# conversion is coming soon!
+
