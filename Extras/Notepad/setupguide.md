@@ -5,11 +5,11 @@ it is important to use Public Subs for things we may need to use more than once,
 we can also handle more than one button click but this makes our code easier to understand and format.
 
 The first part of the code is from the "Basic usage" main.vb file in the main directory. 
-We add the others in for each Notepad example:
+We add the others in for each Notepad example.
+
 #Basic Notepad
 
-Public subs we need:
-
--LoadUpEvents
--Save
--Open
+-Cut,Copy,Paste,Undo,Redo,SelectAll
+-Save,Open
+-Bold,Italics,Fonts
+-Many Format Options
